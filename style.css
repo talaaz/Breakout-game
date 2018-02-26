@@ -1,0 +1,21 @@
+
+* { padding: 20; margin: 0; }
+canvas { background: #eee; display: block; margin: 0 auto; }
+footer {
+background-color:black;
+color: white;
+padding:1px 1px 3px 1px;
+text-align:center;
+}
+aside{
+
+float: left;
+}
+
+section{
+
+  float: nono;
+}
+p{
+  font-size: 20px;
+}
